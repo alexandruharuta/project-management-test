@@ -36,7 +36,7 @@
                 "${workspaceFolder}/dotnetApp/dotnetApp.csproj"
             ],
             "options": {
-                "cwd": "${workspaceFolder}/dotnetApp/dotnetApp.csproj"
+                "cwd": "${workspaceFolder}/dotnetApp"
             },
             "problemMatcher": "$msCompile"
         }
