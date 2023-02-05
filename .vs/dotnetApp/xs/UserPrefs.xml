@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{12A02CE7-21A4-4C4A-B455-9C51B8E4A0E7}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.dotnetApp PreferredExecutionTarget="/Applications/Arc.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="dotnetApp/appsettings.Development.json">
+    <Files>
+      <File FileName="dotnetApp/Program.cs" Line="15" Column="1" />
+      <File FileName="dotnetApp/appsettings.Development.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="dotnetApp" expanded="True">
+            <Node name="dotnetApp" expanded="True">
+              <Node name="appsettings.json">
+                <Node name="appsettings.Development.json" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
